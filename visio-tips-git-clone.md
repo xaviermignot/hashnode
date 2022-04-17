@@ -1,11 +1,10 @@
 ---
-layout: post
 title: Manage your Visio shapes with Git
-tags: [visio, azure]
+tags: visio, azure
 cover: https://blog.xmi.fr/assets/img/visio-tips-git-clone/banner.png 
-img_path: /assets/img/visio-tips-git-clone
 published: false
 series: Visio tips
+domain: hashnode.xmi.fr
 ---
 
 In this post I will share a simple trick I have used for many years to keep my favorite Visio shapes always fresh.  
